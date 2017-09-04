@@ -1,0 +1,30 @@
+DSS
+Assignment 1
+Explain the workflow of expert system
+
+Assignment2
+Explain any five sector where ANN are used????????
+
+1. localhost/phpmyadmin
+login username root password root
+create database
+
+
+2. locahost/utsana
+add database + username and password from step 1
+server locahost nai rakha
+leave it as it is
+
+next 
+
+add username password
+
+install
+
+43107FE188
+
+http://localhost/utsana/wp-login.php
+
+add webpage name 
+
+tan tu dhun dhis !! done
